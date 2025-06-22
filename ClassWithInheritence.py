@@ -20,4 +20,3 @@ MyElectricCar = ElectricCar("Tesla Model 3", "Red", 2021, 75)
 MyElectricCar.display_info()
 MyLatestCar = Car("Tata-Punch", "Black", "2023")
 MyLatestCar.display_info()
-# Encapsulation Example
