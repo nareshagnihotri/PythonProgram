@@ -9,22 +9,6 @@ Different Modes of Handling Files:
 '+' (read and write): Combines with other modes (e.g., 'r+', 'w+', 'a+').
 """
 
-
-# z = input("Enter text to append to the file DA1: ")
-# x = open("DA1.csv", "a")
-# x.write(z + "\n")
-# x.close()
-
-
-
-
-# y = open("DA1.csv", "r")
-# line = y.readline()
-# for line in y:
-#     print(line.strip())
-# y.close()
-
-
 z = input("Enter text to append to the file DA1: ")
 x = open("DA1.csv", "a+")
 x.write(z + "\n")
