@@ -1,2 +1,2 @@
 # PythonProgram
-I will write Basic Program Understand Python from Basics
+I will write a Basic Program to Understand Python from the Basics
