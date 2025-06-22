@@ -1,0 +1,14 @@
+# Create a virtual environment using 
+
+py -m venv myenv
+
+#where `myenv` is the name of your virtual environment Folder.
+
+# Activate Virtual Environment
+
+# To activate the virtual environment, use the following command:
+
+.\\myenv\\Scripts\\activate
+
+# That's It
+# # You can now install packages and run your Python scripts within this isolated environment.
