@@ -1,5 +1,5 @@
 """
-Modes:
+Different Modes of Handling Files:
 'r' (read): Opens for reading (default). Raises an error if the file doesn't exist.
 'w' (write): Opens for writing. Creates the file if it doesn't exist, or truncates (empties) it if it does.
 'a' (append): Opens for writing, appending data to the end of the file. Creates the file if it doesn't exist.
