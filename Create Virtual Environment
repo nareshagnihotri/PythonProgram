@@ -1,4 +1,4 @@
-# Create a virtual environment using 
+# Create a virtual environment using following command in Terminal
 
 py -m venv myenv
 
