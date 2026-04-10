@@ -12,3 +12,6 @@ py -m venv myenv
 
 # That's It
 # # You can now install packages and run your Python scripts within this isolated environment.
+
+# cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+# start powercell as adminand paste " Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
